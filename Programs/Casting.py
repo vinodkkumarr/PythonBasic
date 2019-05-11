@@ -15,3 +15,6 @@ str() - constructs a string from a wide variety of data types, including strings
 x = int(1)   # x will be 1
 y = int(2.8) # y will be 2
 z = int("3") # z will be 3
+print(x)
+print(y)
+
